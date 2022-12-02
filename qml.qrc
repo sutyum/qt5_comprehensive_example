@@ -1,0 +1,17 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>MedComponents/DateTimeLabel.qml</file>
+        <file>MedComponents/Button.qml</file>
+        <file>MedComponents/VirtualKeyboard.qml</file>
+        <file>Screens/HomeScreen.qml</file>
+        <file>Screens/NewPatientScreen.qml</file>
+        <file>Screens/SettingScreen.qml</file>
+        <file>Screens/DetailScreen.qml</file>
+        <file>Screens/ScreenSaver.qml</file>
+        <file>MedComponents/SpinBox.qml</file>
+        <file>MedComponents/ListDelegate.qml</file>
+        <file>MedComponents/LineEdit.qml</file>
+        <file>MedComponents/QuestionDialog.qml</file>
+    </qresource>
+</RCC>

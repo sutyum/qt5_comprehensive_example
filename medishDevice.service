@@ -1,0 +1,7 @@
+ 
+[Service]
+Type=simple
+ExecStart=/opt/MedishDevice/bin/MedishDevice
+
+[Install]
+WantedBy=multi-user.target
